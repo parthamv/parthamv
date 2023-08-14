@@ -52,7 +52,7 @@ const partha = {
 
 I'm passionate about building innovative solutions and collaborating with fellow tech enthusiasts. Feel free to reach out to me for exciting discussions, project collaborations, or simply to geek out over the latest tech trends. Let's connect and embark on an incredible coding journey together! 💻✨
 
-[![Linkedin: parthamv](https://img.shields.io/badge/AniruthRamesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pmv25/)](https://www.linkedin.com/in/pmv25/)
+[![Linkedin: parthamv](https://img.shields.io/badge/ParthaMv%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pmv25/)](https://www.linkedin.com/in/pmv25/)
 
 <!--
 **AniruthRamesh/AniruthRamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
