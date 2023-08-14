@@ -7,7 +7,7 @@
 DS Grad at Northeastern, Boston 🌱
 </em></p>
 
-[![Linkedin: aniruth-ramesh](https://img.shields.io/badge/AniruthRamesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aniruth-ramesh/)](https://www.linkedin.com/in/aniruth-ramesh/)
+[![Linkedin: Parthamv](https://img.shields.io/badge/ParthaMv%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pmv25/)](https://www.linkedin.com/in/pmv25/)
 
 ## Languages 🚀
 
