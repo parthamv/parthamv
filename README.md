@@ -36,7 +36,7 @@ const partha = {
 	askMeAbout: ['web dev', 'tech', 'photography', 'gaming', 'travel'],
 	technologies: {
 		frontEnd: {
-			js: ['React', 'Next.js'],
+			js: ['React', 'Next.js', 'three.js', 'express.js'],
 			css: ['bootstrap', 'tailwind CSS','scss'],
 		},
 		backEnd: {
