@@ -32,8 +32,8 @@ DS Grad at Northeastern, Boston 🌱
 ```javascript
 const partha = {
 	pronouns: 'He' | 'Him',
-	code: ['Java', 'Javascript'],
-	askMeAbout: ['web dev', 'tech', 'photography', 'gaming', 'travel'],
+	code: ['Java', 'Javascript','Python','C++'],
+	askMeAbout: ['web dev', 'tech', 'AI', 'music', 'gaming', 'travel'],
 	technologies: {
 		frontEnd: {
 			js: ['React', 'Next.js', 'three.js', 'express.js'],
@@ -44,7 +44,7 @@ const partha = {
 			java: ['core','spring boot'], python: ['django','django rest'],
 		},
 		DevOps: ['AWS'],
-		databases: ['MySql', 'mongo', 'SQLite','postreSQL']
+		databases: ['MySql', 'mongo', 'SQLite', 'postreSQL','pinecone vectorbase']
 	}
 };
 ```
