@@ -43,7 +43,7 @@ const partha = {
 			js: ['node', 'express.js'],
 			java: ['core','spring boot'], python: ['django','django rest'],
 		},
-		DevOps: ['AWS'],
+		DevOps: ['AWS', 'Docker',' Kubernetes'],
 		databases: ['MySql', 'mongo', 'SQLite', 'postreSQL','pinecone vectorbase']
 	}
 };
