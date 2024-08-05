@@ -44,7 +44,7 @@ const partha = {
 			java: ['core','spring boot'], python: ['django','django rest'],
 		},
 		DevOps: ['AWS', 'Docker',' Kubernetes'],
-		databases: ['MySql', 'mongo', 'SQLite', 'postreSQL','pinecone vectorbase']
+		databases: ['MySql', 'mongo', 'SQLite', 'postgreSQL','pinecone vectorbase']
 	}
 };
 ```
